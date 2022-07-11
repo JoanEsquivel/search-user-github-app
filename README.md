@@ -1,8 +1,9 @@
 # curso-vue-3-desde-cero-rebuild
 
 ## Repositorio comprobante de haber finalizado el curso de Vue 3 desde Cero en Escuela Vue ⭐️
-
+Pagina publicada [desde aquí](https://joanesquivel.github.io/search-user-github-app/#).
 Puedes acceder [desde aquí](https://www.escuelavue.es/cursos/curso-vue-3-desde-cero/).
+
 
 ![Curso Vue 3](https://a.storyblok.com/f/87002/1280x720/18667defa9/curso-vue-3-desde-cero.jpg)
 
