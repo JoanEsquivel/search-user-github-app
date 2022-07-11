@@ -35,7 +35,9 @@ const app = Vue.createApp({
         const data = await response.json();
         console.log(data);
         this.result = data;
-        foundInFavorites.lastRequestTime = Date.now();
+        if (foundInFavorites) {
+          foundInFavorites.lastRequestTime = Date.now();
+        }
       } catch (error) {
         this.error = error;
       } finally {
