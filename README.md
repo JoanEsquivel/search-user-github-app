@@ -1,4 +1,4 @@
-# curso-vue-3-desde-cero
+# curso-vue-3-desde-cero-rebuild
 
 ## Repositorio comprobante de haber finalizado el curso de Vue 3 desde Cero en Escuela Vue ⭐️
 
